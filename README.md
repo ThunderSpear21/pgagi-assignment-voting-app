@@ -3,7 +3,7 @@
 This project is a mobile application built for a mobile developer internship assignment. It allows users to submit, vote on, and discover startup ideas in a fun and interactive way. The app features a mock AI rating system, a community voting mechanism, and a leaderboard to showcase the most popular ideas.
 
 🎥 Video Walkthrough
-Watch a walkthrough of the app here! https://youtu.be/HHSUTObbjec 👈
+Watch a walkthrough of the app here! https://drive.google.com/file/d/1SEvKVnw83gF0bh9HniJSbc8hSgdWEdCn/view?usp=sharing 👈
 
 ✨ Features Implemented
 📱 Multi-Screen UI: A clean, responsive, and intuitive user interface.
